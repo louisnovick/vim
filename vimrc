@@ -17,7 +17,7 @@ set hlsearch
 set incsearch 
 set showmatch 
 set mat=2
-
+set background=dark
 set noerrorbells
 set novisualbell
 set t_vb=
